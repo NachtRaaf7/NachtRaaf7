@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NatchRaaf7/NatchRaaf7/main/assets/foto.png" width="150"/>
+</p>
+
 <h1 align="center">Bem-vindo</h1> <p align="center"> Estudante e desenvolvedora em formação. </p>
 
 <p align="center"> Linguagens: C </p>
