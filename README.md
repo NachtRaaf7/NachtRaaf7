@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/NatchRaaf7/NatchRaaf7/main/assets/foto.png](https://github.com/NachtRaaf7/Assets/blob/main/_114003261_whatsubject.jpg)" width="150"/>
+  <img src="https://github.com/NachtRaaf7/Assets/blob/main/_114003261_whatsubject.jpg" width="150"/>
 </p>
 
 <h1 align="center">Bem-vindo</h1> <p align="center"> Estudante e desenvolvedora em formação. </p>
