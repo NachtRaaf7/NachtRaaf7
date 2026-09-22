@@ -2,6 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:192331,100:2A2A2A&height=200&section=header" width="100%"/>
 </p>
 
+<p align="center"> 
+  <img src="https://github.com/NachtRaaf7/Assets/blob/main/so%20coolee%20cool%20cool%20cool.jpg" width="350"/> 
+</p> 
+
 <h1 align="center">Hi 👋, Imma Gabriela</h1>
 
 <p align="center">
