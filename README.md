@@ -3,5 +3,3 @@
 <p align="center"> <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="C"/> </p>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=NatchRaaf7&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="150"/> </p>
-
-<p align="center"> <em>Em constante aprendizado 🚀</em> </p>
